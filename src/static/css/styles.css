@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Architects;
+    src: url("../fonts/ArchitectsDaughter-Regular.ttf");
+}
+
+@font-face {
+    font-family: Dongle;
+    src: url("../fonts/Dongle-Regular.ttf");
+}
+
+body, html {
+    margin: 0;
+}
