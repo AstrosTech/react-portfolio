@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "../components/Name Card/NameCard";
+import Home from "../components/NameCard";
 
 const NameCard = () => {
     return (
